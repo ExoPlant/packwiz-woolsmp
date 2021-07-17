@@ -1,0 +1,14 @@
+name = "Snow Under Trees (Fabric)"
+filename = "snow-under-trees-fabric-mc1.16.5-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3373/933/snow-under-trees-fabric-mc1.16.5-1.0.0.jar"
+hash-format = "murmur2"
+hash = "918568230"
+
+[update]
+[update.curseforge]
+file-id = 3373933
+project-id = 499731
+release-channel = "beta"
