@@ -1,0 +1,14 @@
+name = "Villagers follow Emeralds [Fabric]"
+filename = "villagers-follow-emeralds-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3359/377/villagers-follow-emeralds-1.0.1.jar"
+hash-format = "murmur2"
+hash = "380940039"
+
+[update]
+[update.curseforge]
+file-id = 3359377
+project-id = 391911
+release-channel = "beta"

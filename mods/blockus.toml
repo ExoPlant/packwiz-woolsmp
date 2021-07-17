@@ -1,0 +1,14 @@
+name = "Blockus"
+filename = "blockus-2.1.9+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3381/861/blockus-2.1.9+1.16.5.jar"
+hash-format = "murmur2"
+hash = "2588306415"
+
+[update]
+[update.curseforge]
+file-id = 3381861
+project-id = 312289
+release-channel = "beta"

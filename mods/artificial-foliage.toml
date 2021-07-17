@@ -1,0 +1,14 @@
+name = "Artificial Foliage (FABRIC)"
+filename = "Artificial_Foliage_2.6_(FABRIC)_for_1.16.4-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3365/327/Artificial_Foliage_2.6_(FABRIC)_for_1.16.4-1.16.5.jar"
+hash-format = "murmur2"
+hash = "3514701013"
+
+[update]
+[update.curseforge]
+file-id = 3365327
+project-id = 476225
+release-channel = "beta"

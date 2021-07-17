@@ -1,0 +1,12 @@
+name = "Wool SMP"
+author = "Exo"
+version = "0.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "07dc9bc1a448487d3d1dea27081320c17c5dad662f3df9e86ed0fb5b215891a7"
+
+[versions]
+fabric = "0.11.6"
+minecraft = "1.16.5"
