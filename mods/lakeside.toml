@@ -1,0 +1,14 @@
+name = "Lakeside"
+filename = "Lakeside-1.0.3+1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3103/126/Lakeside-1.0.3+1.16.4.jar"
+hash-format = "murmur2"
+hash = "675083245"
+
+[update]
+[update.curseforge]
+file-id = 3103126
+project-id = 363707
+release-channel = "beta"
