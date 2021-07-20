@@ -1,0 +1,14 @@
+name = "Bewitchment"
+filename = "bewitchment-1.16.5-16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3375/181/bewitchment-1.16.5-16.jar"
+hash-format = "murmur2"
+hash = "88427244"
+
+[update]
+[update.curseforge]
+file-id = 3375181
+project-id = 394915
+release-channel = "beta"
