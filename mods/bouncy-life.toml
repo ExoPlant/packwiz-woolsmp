@@ -1,0 +1,14 @@
+name = "Bouncy Life (Fabric)"
+filename = "bouncylife-1.2.0-rc.1+mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3221/41/bouncylife-1.2.0-rc.1+mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "2823963931"
+
+[update]
+[update.curseforge]
+file-id = 3221041
+project-id = 321743
+release-channel = "beta"
