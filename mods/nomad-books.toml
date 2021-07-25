@@ -1,0 +1,14 @@
+name = "Nomad Books 📗"
+filename = "nomadbooks-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3239/978/nomadbooks-1.0.1.jar"
+hash-format = "murmur2"
+hash = "4239835149"
+
+[update]
+[update.curseforge]
+file-id = 3239978
+project-id = 356921
+release-channel = "beta"
